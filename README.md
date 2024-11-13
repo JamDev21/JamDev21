@@ -18,10 +18,10 @@ Estoy explorando temas como:
 
 ### 💬 ¡Conectemos!
 Estoy abierto a colaborar en proyectos interesantes y a conectar con personas de ideas afines. No dudes en contactarme:
-- [LinkedIn](https://www.linkedin.com/in/jonathan-jes%C3%BAs-%C3%A1ngeles-mart%C3%ADnez-932218314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 🔗
-- [Facebook](https://www.facebook.com/share/eoQYxkxoJU6nL65Z/)
-- [Instagram](https://www.instagram.com/jonaangelesmartinez/profilecard/?igsh=MWNteHVyMG12MnM1OA==)
-- [Correo:](angelez.jona88@gmail.com) 📧
+- [🔗 LinkedIn](https://www.linkedin.com/in/jonathan-jes%C3%BAs-%C3%A1ngeles-mart%C3%ADnez-932218314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [📘 Facebook](https://www.facebook.com/share/eoQYxkxoJU6nL65Z/)
+- [📸 Instagram](https://www.instagram.com/jonaangelesmartinez/profilecard/?igsh=MWNteHVyMG12MnM1OA==)
+- [📧 Correo](mailto:angelez.jona88@gmail.com)
 
 ### 📈 Estadísticas de GitHub
 ![Estadísticas de GitHub de Jonathan](https://github-readme-stats.vercel.app/api?username=JamDev21&show_icons=true&theme=radical)

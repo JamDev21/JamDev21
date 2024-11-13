@@ -13,7 +13,7 @@ Tengo experiencia en una variedad de lenguajes y herramientas:
 ### 🌱 Actualmente aprendiendo
 Estoy explorando temas como:
 - Técnicas avanzadas de ciencia de datos y aprendizaje automático 🤖
-- Desarrollo full-stack 🚀
+- Desarrollo Front-End 🚀
 - Prácticas de ciberseguridad 🔐
 
 ### 💬 ¡Conectemos!
